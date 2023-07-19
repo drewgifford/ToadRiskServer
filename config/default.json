@@ -2,11 +2,11 @@
     "port": 8000,
     "players": [
         {
-            "name": "Toadally",
+            "name": "BobJim",
             "color": "teal"
         },
         {
-            "name": "Tongo",
+            "name": "JimBob",
             "color": "palevioletred"
         }
     ],
@@ -18,15 +18,11 @@
             "name": "Soldier",
             "type": "unit",
             "cost": {
-
                 "wheat": 4,
                 "iron": 4
-
             },
             "upkeep": {
-
                 "wheat": 2
-
             }
         },
         {
@@ -34,10 +30,10 @@
             "name": "Scout",
             "type": "unit",
             "cost": {
-
+                "wheat": 10
             },
             "upkeep": {
-
+                "wheat": 2
             }
         },
         {
@@ -45,10 +41,12 @@
             "name": "Tank",
             "type": "unit",
             "cost": {
-
+                "iron": 15,
+                "oil": 10,
+                "coal": 5
             },
             "upkeep": {
-
+                "oil": 2
             }
         },
         {
