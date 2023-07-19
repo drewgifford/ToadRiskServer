@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Government_Office" data-name="Government Office" transform="translate(1.5 1.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#a934d4" stroke="#fff" stroke-width="1.5">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="-0.75" y="-0.75" width="31.5" height="31.5" fill="none"/>
+    </g>
+    <path id="government-svgrepo-com" d="M24.4,23.548v.844H.573V23.55a.819.819,0,0,1,.817-.819H2.1q0-.041,0-.083v-.762a.819.819,0,0,1,.817-.817h.705V14.85H3.087a.953.953,0,1,1,0-1.905H21.94a.953.953,0,1,1,0,1.905h-.5v6.22h.623a.819.819,0,0,1,.817.817v.762a.626.626,0,0,1-.005.083h.709a.819.819,0,0,1,.817.817ZM21.44,11.436a8.911,8.911,0,0,0-17.823,0ZM5.639,21.07H7.546V15.8a.954.954,0,0,0-1.907,0Zm3.945-5.25v5.25h1.907V15.82a.954.954,0,1,0-1.907,0Zm3.945.014V21.07h1.907V15.834a.954.954,0,0,0-1.907,0Zm3.945.014V21.07h1.907V15.847a.954.954,0,1,0-1.907,0Z" transform="translate(2.515 1.541)" fill="#fff"/>
+  </g>
+</svg>

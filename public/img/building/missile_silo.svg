@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Reactor" transform="translate(1.5 1.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#924f15" stroke="#fff" stroke-width="1.5">
+      <rect width="29" height="29" stroke="none"/>
+      <rect x="-0.75" y="-0.75" width="30.5" height="30.5" fill="none"/>
+    </g>
+    <path id="silo-svgrepo-com" d="M8.8,2a6.8,6.8,0,0,1,6.755,6.044l7.362,4.413v2.091l-2.091-1.255v9.621H18.731V12.039l-3.137-1.882V22.914H13.5V9.32H4.091V22.914H2V8.8A6.8,6.8,0,0,1,8.8,2m0,2.091A4.691,4.691,0,0,0,4.363,7.229h8.868A4.691,4.691,0,0,0,8.8,4.091m-2.614,7.32h5.229V13.5H6.183V11.411m0,4.183h5.229v2.091H6.183V15.594m0,4.183h5.229v2.091H6.183Z" transform="translate(2.043 2.043)" fill="#fff"/>
+  </g>
+</svg>

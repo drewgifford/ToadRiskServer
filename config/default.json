@@ -1,0 +1,173 @@
+{
+    "port": 8000,
+    "players": [
+        {
+            "name": "Toadally",
+            "color": "teal"
+        },
+        {
+            "name": "Tongo",
+            "color": "palevioletred"
+        }
+    ],
+
+    "items": [
+
+        {
+            "id": "soldier",
+            "name": "Soldier",
+            "type": "unit",
+            "cost": {
+
+                "wheat": 4,
+                "iron": 4
+
+            },
+            "upkeep": {
+
+                "wheat": 2
+
+            }
+        },
+        {
+            "id": "scout",
+            "name": "Scout",
+            "type": "unit",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "tank",
+            "name": "Tank",
+            "type": "unit",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "missile",
+            "name": "Missile",
+            "type": "unit",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "nuke",
+            "name": "Nuke",
+            "type": "unit",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        }
+
+
+        ,
+        {
+            "id": "factory",
+            "name": "Factory",
+            "type": "building",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "radar",
+            "name": "Radar",
+            "type": "building",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "military_academy",
+            "name": "Military Academy",
+            "type": "building",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "government_office",
+            "name": "Government Office",
+            "type": "building",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "reactor",
+            "name": "Nuclear Reactor",
+            "type": "building",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "missile_silo",
+            "name": "Missile Silo",
+            "type": "building",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+
+        
+        {
+            "id": "capital",
+            "name": "Capital",
+            "type": "city",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        },
+        {
+            "id": "city",
+            "name": "City",
+            "type": "city",
+            "cost": {
+
+            },
+            "upkeep": {
+
+            }
+        }
+        
+
+
+    ]
+}

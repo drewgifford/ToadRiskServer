@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Military_Academy" data-name="Military Academy" transform="translate(1.5 1.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#c41c1c" stroke="#fff" stroke-width="1.5">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="-0.75" y="-0.75" width="31.5" height="31.5" fill="none"/>
+    </g>
+    <g id="academy-cap-svgrepo-com" transform="translate(3.337 4.337)">
+      <path id="Path_574" data-name="Path 574" d="M16.047,16.206a1.459,1.459,0,0,0-.125-2.388L15.916,5.33l-1.458.977v7.508a1.459,1.459,0,0,0-.134,2.375l-.551.732A3.616,3.616,0,0,0,13,19.106v1.782h1.188a1.283,1.283,0,0,0,1.244-.968l.483-1.948v2.916h1.458V19.123a3.624,3.624,0,0,0-.779-2.194Z" transform="translate(5.953 2.441)" fill="#fff"/>
+      <path id="Path_575" data-name="Path 575" d="M11.663,0,0,5.832l11.663,7.289L23.326,5.832Z" fill="#fff"/>
+      <path id="Path_576" data-name="Path 576" d="M10.289,11.525,3,6.67V9.163c0,1.327,4.286,5.278,7.289,5.278s7.289-3.951,7.289-5.278V6.67Z" transform="translate(1.374 3.054)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

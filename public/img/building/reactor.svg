@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Reactor" transform="translate(1.5 1.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#187a11" stroke="#fff" stroke-width="1.5">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="-0.75" y="-0.75" width="31.5" height="31.5" fill="none"/>
+    </g>
+    <g id="nuclear-power-plant-1-svgrepo-com" transform="translate(3.524 -51.219)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="17.299" height="2.055" transform="translate(2.826 57.313)" fill="#fff"/>
+      <path id="Path_577" data-name="Path 577" d="M19.183,126.094H3.768A29.965,29.965,0,0,1,0,140.824H22.951A29.966,29.966,0,0,1,19.183,126.094Zm-8.012,6.918a.61.61,0,0,1,.61,1.057.61.61,0,0,1-.834-.223A.611.611,0,0,1,11.171,133.012Zm-1.96-3.423,1.661,2.877a1.21,1.21,0,0,0-.6,1.047H6.945A4.534,4.534,0,0,1,9.21,129.589Zm0,7.847,1.661-2.876a1.207,1.207,0,0,0,1.208,0h0l1.66,2.876A4.531,4.531,0,0,1,9.21,137.436Zm3.474-3.923a1.191,1.191,0,0,0-.162-.605,1.2,1.2,0,0,0-.443-.441l1.661-2.876a4.522,4.522,0,0,1,2.264,3.922Z" transform="translate(0 -65.698)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

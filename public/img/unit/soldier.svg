@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Soldier" transform="translate(-27.627 -166.627)">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(27.627 166.627)" fill="#12228b" stroke="#fff" stroke-width="2">
+      <circle cx="16.5" cy="16.5" r="16.5" stroke="none"/>
+      <circle cx="16.5" cy="16.5" r="15.5" fill="none"/>
+    </g>
+    <g id="us-army-helmet-svgrepo-com" transform="translate(33.654 173.388)">
+      <path id="Path_578" data-name="Path 578" d="M20.421,38.023c-.021-.021-.055-.05-.1-.089A9.707,9.707,0,1,0,1.2,35.006c-.006.082-.01.164-.012.245a1.537,1.537,0,0,1-.18.331c-1.2.441-1.52,1.589.114,1.589h9.763c.9,0,1.917,1.606,3.519,2.384a10.2,10.2,0,0,0,4.741.937c.936,0,1.745-.085,2.128-.639C21.48,39.553,20.931,38.534,20.421,38.023Z" transform="translate(0.001 -25.932)" fill="#fff"/>
+      <path id="Path_579" data-name="Path 579" d="M219.782,343.8a14.882,14.882,0,0,1-2.151,3.3.681.681,0,1,0,1.018.906,16.256,16.256,0,0,0,2.382-3.658c.243-.5.427-.938.556-1.262-.415-.274-.831-.593-1.137-.84A16.723,16.723,0,0,1,219.782,343.8Z" transform="translate(-208.404 -329.074)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

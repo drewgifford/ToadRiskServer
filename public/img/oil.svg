@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="oil" transform="translate(1.5 1.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#970707" stroke="#cba333" stroke-width="1.5">
+      <rect width="30" height="30" rx="5" stroke="none"/>
+      <rect x="-0.75" y="-0.75" width="31.5" height="31.5" rx="5.75" fill="none"/>
+    </g>
+    <path id="barrel-svgrepo-com" d="M20.712,22.338h1.209v2.417H5V22.338H6.209V15.086H5V12.669H6.209V5.417H5V3H21.921V5.417H20.712v7.252h1.209v2.417H20.712v7.252M9.834,15.086a3.626,3.626,0,0,0,7.252,0c0-2.417-3.626-6.49-3.626-6.49S9.834,12.669,9.834,15.086Z" transform="translate(1.54 1.123)" fill="#330c0c"/>
+  </g>
+</svg>

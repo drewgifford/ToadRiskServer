@@ -1,0 +1,75 @@
+<style>
+
+    #map {
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    #map-container {
+        width: 100%;
+        height: 100%;
+    }
+    #map-container svg {
+        position: relative;
+        /*left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);*/
+        
+    }
+    #map-container svg path {
+
+        stroke-width: 0.025%;
+        stroke: white;
+        cursor: pointer;
+
+        transition: fill 50ms;
+        
+
+    }
+
+    .resource {
+        display: inline-block;
+        position: absolute;
+        width: 26px;
+        height: 26px;
+        z-index: 1;
+        fill: none;
+        stroke: none;
+        justify-content: center;
+        align-items: center;
+    }
+    .resource img {
+        float: left;
+        padding: 2px;
+        width: 50%;
+    }
+
+    .resource-1 img:last-child {
+        margin: 25%;
+    }
+    .resource-2 img:last-child {
+        margin-top: 50%;
+    }
+    .resource-3 img:last-child {
+        margin-left: 25%;
+    }
+
+    #map-resources * {
+        pointer-events: none;
+    }
+</style>
+
+<div id="map">
+    <div id="map-resources"></div>
+    <div id="map-units"></div>
+    <div id="map-buildings"></div>
+
+    <div id="map-container"></div>
+</div>
+
+<script>
+
+
+</script>

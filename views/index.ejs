@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<%- include("partial/Head") %>
+
+<body>
+<%- include("partial/Loading") %>
+<%- include("partial/Players") %>
+<%- include("partial/Buttons") %>
+<%- include("partial/Units") %>
+<%- include("partial/Templates") %>
+<%- include("partial/Map") %>
+
+<script>
+
+    let pz;
+
+    $(document).ready(function(){
+
+        pz = panzoom(document.getElementById("map"), {
+
+            minZoom: 0.01,
+            maxZoom: 5,
+
+        });
+
+    });
+
+</script>
+
+</body>
+
+<%- include("partial/Foot") %>
+
+</html>

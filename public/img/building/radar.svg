@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Radar" transform="translate(1.5 1.5)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#16992c" stroke="#fff" stroke-width="1.5">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="-0.75" y="-0.75" width="31.5" height="31.5" fill="none"/>
+    </g>
+    <path id="radar-dish-svgrepo-com" d="M12.078,1ZM24.788,6.561a1.539,1.539,0,0,0-2.859.969L16.75,9.1,12.078,1a11.617,11.617,0,0,0-3.526,9.988L6.793,11.3l.524,2.974L5.252,16.207l.917,1.577,2.881-.873.369.485L3.825,24.384H16.281l-.823-4.439a11.619,11.619,0,0,0,7.781.409l-4.672-8.1,3.95-3.7a1.54,1.54,0,0,0,2.272-1.99Z" transform="translate(2.139 2.307)" fill="#fff"/>
+  </g>
+</svg>

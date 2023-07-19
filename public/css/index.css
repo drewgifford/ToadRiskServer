@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently */
+
+    font-family: "Inter", sans-serif;
+    color: white;
+}
+
+
+h1,h2,h3,h4,h5,.bold {
+    font-family: "Barlow", "Inter", sans-serif;
+}
+
+body {
+    background: #0A0F25;
+    overflow: hidden;
+}
+
+.container {
+    background-color: rgba(0,0,0,0.5);
+    border: 1px solid white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.button {
+    background: black;
+    border: 1px solid white;
+    padding: 0.5em;
+    color: white;
+    cursor: pointer;
+    transition: all 100ms;
+    display: inline-block;
+}
+.button:hover {
+    background: white;
+    color: black;
+}

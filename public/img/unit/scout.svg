@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <g id="Scout" transform="translate(-28 -167.241)">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(28 167.241)" fill="#12228b" stroke="#fff" stroke-width="2">
+      <circle cx="16.5" cy="16.5" r="16.5" stroke="none"/>
+      <circle cx="16.5" cy="16.5" r="15.5" fill="none"/>
+    </g>
+    <path id="feather-alt-svgrepo-com" d="M20.792,0C18.69.145,3.92,1.551,2.888,11.677c-.125,1.082-.2,2.17-.243,3.258L9.907,7.68a.65.65,0,0,1,.92.919L.291,19.124A.975.975,0,1,0,1.67,20.5l2.32-2.317a45.893,45.893,0,0,0,5.114-.3,9.686,9.686,0,0,0,5.383-2.3h-4.1l5.96-1.985a16.109,16.109,0,0,0,1.236-1.913H14.29l4.326-2.16A33.138,33.138,0,0,0,20.792,0Z" transform="translate(34.461 173.242)" fill="#fff"/>
+  </g>
+</svg>

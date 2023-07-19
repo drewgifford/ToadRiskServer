@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Missile" transform="translate(-28 -166.563)">
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(28 166.563)" fill="#12228b" stroke="#fff" stroke-width="2">
+      <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+      <circle cx="14.5" cy="14.5" r="13.5" fill="none"/>
+    </g>
+    <g id="missile-2-svgrepo-com_1_" data-name="missile-2-svgrepo-com (1)" transform="translate(32.018 172.776)">
+      <path id="Path_590" data-name="Path 590" d="M403.362.031A4.731,4.731,0,0,0,399.254,1.7l2.44,2.44A4.729,4.729,0,0,0,403.362.031Z" transform="translate(-384.617 -0.006)" fill="#fff"/>
+      <path id="Path_591" data-name="Path 591" d="M13.978,64.292l-2.461,2.461-2.375-.578L8.115,67.2l1.476,1.477L4.644,73.627l-3.019-.061L0,75.184l1.968,1.969,2.418-2.418.375.374L1.749,78.127l.835.835L5.6,75.944l.374.375L3.556,78.736,5.526,80.7l1.619-1.62-.061-3.019,4.947-4.948,1.476,1.477,1.028-1.027-.577-2.375,2.461-2.461Z" transform="translate(-0.005 -61.935)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
